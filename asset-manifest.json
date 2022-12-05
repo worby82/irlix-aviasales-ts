@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/irlix-aviasales-ts/static/css/main.fb3bf51d.css",
+    "main.js": "/irlix-aviasales-ts/static/js/main.19989d09.js",
+    "static/media/OpenSans-Regular.woff": "/irlix-aviasales-ts/static/media/OpenSans-Regular.ab4f6c76f07d0b69c04a.woff",
+    "static/media/OpenSans-SemiBold.woff": "/irlix-aviasales-ts/static/media/OpenSans-SemiBold.a3652b52c8f58f832c2c.woff",
+    "static/media/OpenSans-SemiBold.woff2": "/irlix-aviasales-ts/static/media/OpenSans-SemiBold.7a744a52d45323fb2e17.woff2",
+    "static/media/OpenSans-Regular.woff2": "/irlix-aviasales-ts/static/media/OpenSans-Regular.4ed8dbece213f6100a9e.woff2",
+    "static/media/Logo.svg": "/irlix-aviasales-ts/static/media/Logo.472c04511e4ad43b5d411bb650acb7a9.svg",
+    "index.html": "/irlix-aviasales-ts/index.html",
+    "main.fb3bf51d.css.map": "/irlix-aviasales-ts/static/css/main.fb3bf51d.css.map",
+    "main.19989d09.js.map": "/irlix-aviasales-ts/static/js/main.19989d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3bf51d.css",
+    "static/js/main.19989d09.js"
+  ]
+}
